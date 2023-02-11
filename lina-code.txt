@@ -38,5 +38,10 @@ feature 1 branch
 </html>
 
 
+<<<<<<< HEAD
 Lina 
 
+=======
+
+Lina Aloqayli
+>>>>>>> 85e81dc80a33d594d8baa42746d672280a884342
