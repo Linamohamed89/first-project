@@ -1,6 +1,0 @@
-Giti kasutamine käsureaga
-Giti kasutamise alustamiseks avame esmalt oma käsukesta.
-
-Windowsi jaoks saate kasutada Git bashi, mis sisaldub Git for Windowsis. Maci ja Linuxi jaoks saate kasutada sisseehitatud terminali.
-
-Esimene asi, mida peame tegema, on kontrollida, kas Git on õigesti installitud:
